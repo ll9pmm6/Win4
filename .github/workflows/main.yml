@@ -1,4 +1,4 @@
-name: WiN4
+name: WiN3
 
 on: [push, workflow_dispatch]
 
